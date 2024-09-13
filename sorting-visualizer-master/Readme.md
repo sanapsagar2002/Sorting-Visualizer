@@ -1,6 +1,4 @@
----
----
-
+# Sorting Visualizer
 Created a Sorting Visualizer using HTML, CSS, JavaScript
 
 Implemented Multiple Sorting Algorithms: The visualizer supports a wide range of sorting algorithms, including:
