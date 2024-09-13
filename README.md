@@ -10,6 +10,8 @@ Merge Sort
 Quick Sort
 Heap Sort
 
+Time(Best,Avg and Worst) and Space Complexity of each Sorting Alogorithm is also implemented
+
 Benefits of Using the Sorting Visualizer:
 
 Educational Tool: The visualizer is an excellent tool for learning and understanding sorting algorithms.
